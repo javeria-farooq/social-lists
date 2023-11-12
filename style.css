@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+   color: #dc2f02;
+   text-decoration:underline ;
+   font-size: 40px;
+}
+
+body {
+    background-color: #582c4d;
+    color: #DDBEA9;
+    font-size: large;
+   
+}
+
+a {
+   color: yellow;
+   text-decoration: none;
+   font-size: 30px;
+}
+
+marquee {
+    color: white;
+}
